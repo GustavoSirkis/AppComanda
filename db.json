@@ -1,0 +1,36 @@
+{
+    "produtos": [
+        {
+            "id": 1,
+            "nome": "Bolo de Chocolate",
+            "imagePath": "https://img.freepik.com/free-photo/close-up-fancy-dessert_23-2150527565.jpg?t=st=1688655003~exp=1688658603~hmac=84829cbb20876216de8d7e408378e6b1c44686855c3d414865b445e20bb5f7b4&w=1380",
+            "preco": 8
+        },
+        {
+            "id": 2,
+            "nome": "Bolo de Cenora",
+            "imagePath": "https://img.freepik.com/free-photo/close-up-fancy-dessert_23-2150527565.jpg?t=st=1688655003~exp=1688658603~hmac=84829cbb20876216de8d7e408378e6b1c44686855c3d414865b445e20bb5f7b4&w=1380",
+            "preco": 10
+        },
+        {
+            "id": 3,
+            "nome": "Bolo de Laranja",
+            "imagePath": "https://img.freepik.com/free-photo/close-up-fancy-dessert_23-2150527565.jpg?t=st=1688655003~exp=1688658603~hmac=84829cbb20876216de8d7e408378e6b1c44686855c3d414865b445e20bb5f7b4&w=1380",
+            "preco": 15
+        }
+    ],
+    "comandas": [
+        {
+            "id": 1234,
+            "saldo": 10           
+        },
+        {
+            "id": 5678,
+            "saldo": 0     
+        },
+        {
+            "id": 7890,
+            "saldo": 0     
+        }
+    ]
+}
